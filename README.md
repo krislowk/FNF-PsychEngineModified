@@ -1,6 +1,6 @@
 ![PsychionalEngineLogo](docs/img/ZPEngine.png)
 
-intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+An Engine Just like Psych engine, but with more features? Currently only available on mobile, *i got no pc*
 
 ## Customization:
 
@@ -21,6 +21,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * Homura - Head Porter of Psych Engine Mobile.
 * Karim - Second Porter of Psych Engine Mobile.
 * Moxie - Helper of Psych Engine Mobile.
+* Zenith - Maker of Some features
 
 ## Credits:
 * Shadow Mario - Main Programmer and Head of Psych Engine.
