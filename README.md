@@ -6,7 +6,7 @@ An Engine Just like Psych engine, but with more features? Currently only availab
 
 If you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can refer to the `Project.xml` file.
 
-Inside `Project.xml`, you will find several variables to customize Psych Engine to your liking.
+Inside `Project.xml`, you will find several variables to customize ZP Engine to your liking.
 
 To start you off, disabling *Video Cutscenes* should be simple, simply delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this: `<!-- YOUR_LINE_HERE -->`
 
@@ -21,7 +21,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * Homura - Head Porter of Psych Engine Mobile.
 * Karim - Second Porter of Psych Engine Mobile.
 * Moxie - Helper of Psych Engine Mobile.
-* Zenith - Maker of Some features
+* Zenith - Maker of ZP Engine and Some features
 
 ## Credits:
 * Shadow Mario - Main Programmer and Head of Psych Engine.
@@ -42,6 +42,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * CheemsAndFriends - Creator of FlxAnimate.
 * Ezhalt - Pessy's Easter Egg Jingle.
 * MaliciousBunny - Video for the Final Update.
+* Zen - Did nothing.(Added features)
 
 ***
 
